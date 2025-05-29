@@ -1,0 +1,65 @@
+DID,DNAME,PRECAU,OCCUR,RISKFAC
+101,Fungal Infection,"Bath twice, use dettol or neem in bathing water, keep infected area dry, use clean cloths
+",Common -More than 1 million cases per year (India),"Colonization, broad-spectrum antibiotics, indwelling central catheter"
+103,GERD,"Avoid fatty spicy food, avoid lying down after eating, maintain healthy weight, exercise
+",Very common-More than 10 million cases per year (India),"Obesity, Connective tissue disorders, such as scleroderma."
+104,Chronic cholestasis,"Cold baths, anti itch medicine, consult doctor, eat healthy
+",Common -More than 1 million cases per year (India),"infections from viruses such as HIV, hepatitis, cytomegalovirus"
+107,AIDS,"pre-exposure prophylaxis (PrEP),use condoms or dental dams with oral sex",Common -More than 1 million cases per year (India),"Having unprotected sex,having another sexually transmitted infection
+"
+109,Gastroenteritis,"stop eating solid food for while, try taking small sips of water, rest, ease back into eating",Very common-More than 10 million cases per year (India),measles and immunodeficiencies put the patient at a higher risk for a gastrointestinal
+112,Migraine,"meditation,reduce stress,use polaroid glasses in sun,consult doctor",Very common-More than 10 million cases per year (India),"Skipping meals, Too much or too little sleep, Stress, Smoking, Depression, anxiety, excessive alcohol"
+113,Cervical spondylosis,"use heating pad or cold pack,exercise,take otc pain reliever,consult doctor",Very common-More than 10 million cases per year (India),"Older age, stress on your neck, Neck injuries, Genetic factors, Smoking"
+115,Jaundice,"drink plenty of water,consume milk thistle,eat fruits and high fibrous food,medication",Common -More than 1 million cases per year (India),"Premature birth, Significant bruising during birth, Blood type, Breast-feeding, Race"
+116,Malaria,"Avoid oily food, avoid non veg food, keep mosquitos out
+",Rare -Fewer than 1 million cases per year (India),"Availability of mosquito breeding site or stagnant water near the home, staying outdoors overnight.
+
+"
+117,Chicken pox,"Use neem in bathing, consume neem leaves, take vaccine, avoid public places
+",Rare -Fewer than 1 million cases per year (India),People who haven't already had chickenpox.
+118,Dengue,"drink papaya leaf juice, avoid fatty spicy food, keep mosquitos away, keep hydrated
+",Very rare- Fewer than 100 thousand cases per year (India),"Living or traveling in tropical areas, Prior infection with a dengue fever virus"
+119,Typhoid,"eat high calorie vegetables, antibiotic therapy, consult doctor, medication
+",Very rare- Fewer than 100 thousand cases per year (India),"Work in or travel to areas where typhoid fever is established, Drink contaminated water"
+120,Hepatitis A,"wearing of latex gloves when handling faeces, urine, saliva, and blood.",Rare -Fewer than 1 million cases per year (India),"Travel in areas where hepatitis A is common, have a clotting-factor disorder, such as hemophilia"
+121,Tuberculosis,"cover mouth, consult doctor, medication
+",Common -More than 1 million cases per year (India),"AIDS, Severe kidney disease, Cancer treatment, Drugs to prevent rejection of transplanted organs"
+122,Common Cold,"drink vitamin c rich drinks, take vapour, avoid cold food, keep fever in check
+",Very common-More than 10 million cases per year (India),"Children younger than 6, weakened immune system, Smoking"
+123,Pneumonia,"Practice good hygiene, Don't smoke, Practice a healthy lifestyle, Avoid sick people
+",Very common-More than 10 million cases per year (India),"Asthma, chronic obstructive pulmonary disease (COPD) or heart disease, Smoking, weakened immunity"
+125,Heart attack,"Eat a healthy diet, Get regular exercise, Limit alcohol, Don't smoke, Manage stress",Very common-More than 10 million cases per year (India),"Tobacco, old age, High blood cholesterol, Obesity, Diabetes, Stress, An autoimmune condition"
+126,Varicose veins,"Lie down flat and raise the leg high, use ointments, use vein compressor, don't stand still for long
+",Very common-More than 10 million cases per year (India),"Older age, being woman, Family history, Obesity, Standing or sitting for long periods of time."
+127,Hypothyroidism,"Reduce stress, exercise, eat healthy, get proper sleep
+",Very common-More than 10 million cases per year (India),"Woman, older age, family history of thyroid, autoimmune disease, Received radiation to your neck"
+128,Hypoglycemia,"Lie down on side, check in pulse, drink sugary drinks.
+",Common -More than 1 million cases per year (India),"Taking too much insulin, skipping a meal, or exercising harder than usual."
+130,Arthritis,"Exercise, use hot and cold therapy, try acupuncture, massage
+",Very common-More than 10 million cases per year (India),"Family history, Previous joint injury, older age, being woman, obesity"
+132,Acne,"Bath twice, avoid fatty spicy food, drink plenty of water, avoid too many products
+",Very common-More than 10 million cases per year (India),"Being teenager, Hormonal changes, Friction or pressure on your skin, Stress, certain medicines."
+133,Urinary tract infection,"Drink plenty of water, increase vitamin c intake, drink cranberry juice, take probiotics
+",Very common-More than 10 million cases per year (India),"Being women, Women who use diaphragms, A suppressed immune system, Kidney stones."
+134,Psoriasis,"Wash hands with warm soapy water, stop bleeding using pressure, consult doctor, salt baths
+",Very common-More than 10 million cases per year (India),"Family history, Viral and bacterial infections, Obesity, Lesions, Smoking."
+135,Impetigo,"Wash your hands often with soap and water, use alcohol hand rubs, Do not share personal items
+",Very common-More than 10 million cases per year (India),"Diabetes, weakened immune system, children ages 2 to 5, Crowded conditions, Broken skin"
+100,(Vertigo) Paroxysmal Positional Vertigo,"Avoid sudden head movements, stay hydrated and maintain balance",Estimated 2.4% of general population affected globally; more common in older adults,"Aging,head trauma,innear ear disorders"
+102,Alcoholic Hepatitis,"Limit or stop alcohol intake, eat a nutritious diet",Approximately 10–35% of heavy drinkers develop alcoholic hepatitis globally,"Heavy alcohol use (&gt;30g/day),obesity and less nutrition"
+105,Allergy,"Avoid known allergens,  use medications as prescribed",Over 30% of the global population suffers from allergic diseases,"Genetics,exposure,pollution and climate change"
+106,Bronchial Asthma,"Avoid triggers like smoke and allergens, use inhalers as directed",Over 260 million people affected worldwide; rising in urban areas,"Family history,allergies and smoking"
+108,Diabetes,"Maintain healthy weight and diet, exercise regularly,take less sugar food",Estimated 537 million adults had diabetes in 2021; expected to rise to 643 million by 2030,"Obesity,and age"
+110,Dimorphic Hemorrhoids (Piles),"High fiber diet and hydration, avoid straining during bowel movements",Up to 4.4% of the global population affected; prevalence increases with age,"Pregnancy,obesity and prolonged sitting"
+111,Drug Reaction,"Inform healthcare providers about allergies,  follow dosage instructions carefully",Accounts for ~5–10% of hospital admissions globally,"Genetic sensitivity,renal or liver impairment"
+114,Fungal Infection,"nails or internal organs,Keep skin dry and clean",Fungal infections affect over a billion people annually globally,"Immunosuppression,antibiotic and humid climates"
+124,Hepatitis A,"usually spread through contaminated food/water, practice good sanitation and get vaccinated",Estimated 1.4 million cases annually worldwide,"Poor sanitation,trasvel to endemic areas"
+129,Hepatitis B,"transmitted through bodily fluids,Get vaccinated,practice safe sex",Approximately 296 million people living with chronic HBV infection; 820,"Sexual conditions,IV drug usage,mother to child"
+131,Hepatitis C,"Avoid sharing needles,screen for exposure",An estimated 58 million people have chronic HCV infection globally,"Blood transfusions before 1992,tattoos"
+136,Hepatitis D,"Prevent HBV infection through vaccination,avoid risky behaviors,screen high-risk individuals",Estimated 12 million people co-infected with HDV and HBV globally,"HBV infection,IV drug usage and unsafe medical practices"
+137,Hepatitis E,"often found in regions with poor sanitation,Drink clean water,practice good hygiene",Estimated 20 million HEV infections annually,"Poor sanitation,trasvel to endemic areas"
+138,Hypertension,"Healthy diet and limit salt,do more physical activity and monitor blood pressure",Estimated 1.28 billion adults aged 30–79 have hypertension globally,"Obesity,and age,smoking,alcohol"
+139,Hyperthyroidism,"Monitor thyroid hormone levels,eat a balanced diet and manage stress",Occurs in approximately 0.5–2% of the population,"Female gender,family history"
+140,Osteoarthritis,"Maintain a healthy weight,engage in low intensity exercise and use assistive devices",Over 500+ million people affected globally,"Joint injury,genetics,obesity"
+141,Paralysis (Brain Hemorrhage),"Control hypertension,avoid smoking and seek immediate medical attention",Strokes (including hemorrhagic) affect over 100 million people annually,"Stroke,trauma,hypertension"
+142,Peptic Ulcer Disease,"Avoid NSAIDs when possible,manage stress and keep lifestyle simple",Estimated 4 million cases annually worldwide,"H. pylori infection,NSA"
