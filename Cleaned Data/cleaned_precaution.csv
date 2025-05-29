@@ -1,0 +1,42 @@
+Disease,Precaution_1,Precaution_2,Precaution_3,Precaution_4,DID
+Drug Reaction,stop irritation,consult nearest hospital,stop taking drug,follow up,111
+Malaria,Consult nearest hospital,avoid oily food,avoid non veg food,keep mosquitos out,116
+Allergy,apply calamine,cover area with bandage,,use ice to compress itching,105
+Hypothyroidism,reduce stress,exercise,eat healthy,get proper sleep,127
+Psoriasis,wash hands with warm soapy water,stop bleeding using pressure,consult doctor,salt baths,134
+GERD,avoid fatty spicy food,avoid lying down after eating,maintain healthy weight,exercise,103
+Chronic cholestasis,cold baths,anti itch medicine,consult doctor,eat healthy,104
+hepatitis A,Consult nearest hospital,wash hands through,avoid fatty spicy food,medication,124
+osteoarthritis,acetaminophen,consult nearest hospital,follow up,salt baths,140
+(vertigo) paroxysmal positional vertigo,lie down,avoid sudden change in body,avoid abrupt head movment,relax,100
+Hypoglycemia,lie down on side,check in pulse,drink sugary drinks,consult doctor,128
+Acne,bath twice,avoid fatty spicy food,drink plenty of water,avoid too many products,132
+Diabetes ,have balanced diet,exercise,consult doctor,follow up,108
+Impetigo,soak affected area in warm water,use antibiotics,remove scabs with wet compressed cloth,consult doctor,135
+Hypertension ,meditation,salt baths,reduce stress,get proper sleep,138
+peptic ulcer disease,avoid fatty spicy food,consume probiotic food,eliminate milk,limit alcohol,142
+dimorphic hemorrhoids (piles),avoid fatty spicy food,consume witch hazel,warm bath with epsom salt,consume alovera juice,110
+Common Cold,drink vitamin c rich drinks,take vapour,avoid cold food,keep fever in check,122
+Chicken pox,use neem in bathing ,consume neem leaves,take vaccine,avoid public places,117
+Cervical spondylosis,use heating pad or cold pack,exercise,take otc pain reliver,consult doctor,113
+Hyperthyroidism,eat healthy,massage,use lemon balm,take radioactive iodine treatment,139
+Urinary tract infection,drink plenty of water,increase vitamin c intake,drink cranberry juice,take probiotics,133
+Varicose veins,lie down flat and raise the leg high,use oinments,use vein compression,dont stand still for long,126
+AIDS,avoid open cuts,wear ppe if possible,consult doctor,follow up,107
+Paralysis (brain hemorrhage),massage,eat healthy,exercise,consult doctor,141
+Typhoid,eat high calorie vegitables,antiboitic therapy,consult doctor,medication,119
+Hepatitis B,consult nearest hospital,vaccination,eat healthy,medication,129
+Fungal infection,bath twice,use detol or neem in bathing water,keep infected area dry,use clean cloths,114
+Hepatitis C,Consult nearest hospital,vaccination,eat healthy,medication,131
+Migraine,meditation,reduce stress,use poloroid glasses in sun,consult doctor,112
+Bronchial Asthma,switch to loose cloothing,take deep breaths,get away from trigger,seek help,106
+Alcoholic hepatitis,stop alcohol consumption,consult doctor,medication,follow up,102
+Jaundice,drink plenty of water,consume milk thistle,eat fruits and high fiberous food,medication,115
+Hepatitis E,stop alcohol consumption,rest,consult doctor,medication,137
+Dengue,drink papaya leaf juice,avoid fatty spicy food,keep mosquitos away,keep hydrated,118
+Hepatitis D,consult doctor,medication,eat healthy,follow up,136
+Heart attack,call ambulance,chew or swallow asprin,keep calm,,125
+Pneumonia,consult doctor,medication,rest,follow up,123
+Arthritis,exercise,use hot and cold therapy,try acupuncture,massage,130
+Gastroenteritis,stop eating solid food for while,try taking small sips of water,rest,ease back into eating,109
+Tuberculosis,cover mouth,consult doctor,medication,rest,121
